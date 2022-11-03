@@ -1,0 +1,4 @@
+This is an example file.
+Which currently has two lines,
+but I'm now typing a third one.
+And now the file will end!
